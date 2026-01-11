@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/madhawapathum/netdata-quickstart/compare/v1.0.0...v1.1.0) (2026-01-11)
+
+
+### Features
+
+* ReadMe updated and Image upload ([664e507](https://github.com/madhawapathum/netdata-quickstart/commit/664e50787f8bc7309857f8f68442d4e9c2eebcd3))
+
 ## 1.0.0 (2026-01-09)
 
 
